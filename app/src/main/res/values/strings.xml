@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="phone">Mobile No.</string>
+    <string name="size">Size of Group</string>
+    <string name="smoke">Smoking area</string>
+    <string name="reserve">RESERVE</string>
+    <string name="reset">RESET</string>
+    <string name="day">Day</string>
+    <string name="daySelect">Click here to select day</string>
+    <string name="time">Time</string>
+    <string name="timeSelect">Click here to select time</string>
+    
+    
+    
+    
+    
+    
+</resources>
